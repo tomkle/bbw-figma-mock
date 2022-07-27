@@ -1,6 +1,5 @@
 {
   "name": "BBW Mock",
-  "id": "908371597321736295",
   "api": "1.0.0",
   "main": "dist/code.js",
   "ui": "dist/window.html",
