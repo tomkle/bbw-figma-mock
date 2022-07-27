@@ -85,7 +85,7 @@ onmessage = (event: MessageEvent<any>) => {
     const { url, nodeGroups } = message;
 
     let urls = [
-      "https://raw.githubusercontent.com/naftalibeder/figma-mock-content/main/index.json",
+      "https://raw.githubusercontent.com/tomkle/bbw-mock-data/main/index.json",
     ];
     if (url) urls.push(url);
 
